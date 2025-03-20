@@ -1,0 +1,15 @@
+==1274== Memcheck, a memory error detector
+==1274== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==1274== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==1274== Command: ./posts
+==1274== Parent PID: 1238
+==1274== 
+==1274== 
+==1274== HEAP SUMMARY:
+==1274==     in use at exit: 0 bytes in 0 blocks
+==1274==   total heap usage: 1,358 allocs, 1,358 frees, 456,289 bytes allocated
+==1274== 
+==1274== All heap blocks were freed -- no leaks are possible
+==1274== 
+==1274== For lists of detected and suppressed errors, rerun with: -s
+==1274== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
