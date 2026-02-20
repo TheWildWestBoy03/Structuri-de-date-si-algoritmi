@@ -1,0 +1,15 @@
+==127467== Memcheck, a memory error detector
+==127467== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==127467== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==127467== Command: /home/alexpogan/Facultate/Anul_1/Structuri_de_date/Teme/Tema1/sfl
+==127467== Parent PID: 127466
+==127467== 
+==127467== 
+==127467== HEAP SUMMARY:
+==127467==     in use at exit: 0 bytes in 0 blocks
+==127467==   total heap usage: 107 allocs, 107 frees, 18,968 bytes allocated
+==127467== 
+==127467== All heap blocks were freed -- no leaks are possible
+==127467== 
+==127467== For lists of detected and suppressed errors, rerun with: -s
+==127467== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
